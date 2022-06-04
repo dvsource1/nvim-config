@@ -1,9 +1,9 @@
-░██████╗░██╗░░░██╗
-░██╔══██╗██║░░░██║  /* Viraj Kaushalye (DV)
-░██║░░██║╚██╗░██╔╝   * github.com/dvthedev
-░██║░░██║░╚████╔╝░   * ---
-░██████╔╝░░╚██╔╝░░   */
-░╚═════╝░░░░╚═╝░░░
+" ░██████╗░██╗░░░██╗
+" ░██╔══██╗██║░░░██║  /* Viraj Kaushalye (DV)
+" ░██║░░██║╚██╗░██╔╝   * github.com/dvthedev
+" ░██║░░██║░╚████╔╝░   * ---
+" ░██████╔╝░░╚██╔╝░░   */
+" ░╚═════╝░░░░╚═╝░░░
 
 set number
 set relativenumber
@@ -36,6 +36,9 @@ Plug 'sainnhe/gruvbox-material'	" Gruvbox Material
 " Plug 'neoclide/coc.nvim', {'branch': 'release'}
 
 " Language Plugins
+Plug 'godlygeek/tabular'
+Plug 'preservim/vim-markdown'
+
 Plug 'leafgarland/typescript-vim'	"Typescript
 Plug 'ianks/vim-tsx'				"TSX
 
